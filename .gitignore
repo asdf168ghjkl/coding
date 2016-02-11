@@ -19,6 +19,7 @@ $RECYCLE.BIN/
 *.cbp
 *.depend
 *.layout
+*.exe
 
 # Windows shortcuts
 *.lnk
