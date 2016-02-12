@@ -1,3 +1,4 @@
+//https://uva.onlinejudge.org/external/2/280.pdf
 #include<iostream>
 using namespace std;
 
